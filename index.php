@@ -3,7 +3,7 @@ ob_start();
 define('API_KEY','6070492387:AAG72GExN44WnWfTe2CMlEvUdHBqpeiEyWk'); //Enter your bot's token here
 $admin = "5600479960"; //Enter admin's numerical id
 $zirmajmue = 4; //Number of refferals to become VIP
-$botusername = "@Random_CoupleBot"; //Bot's Username
+$botusername = "Random_CoupleBot"; //Bot's Username
 $channelusername = "+hbJK1lsB8ec1M2Q1"; //Bot's channel's username
 
 
