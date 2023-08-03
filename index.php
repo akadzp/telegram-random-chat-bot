@@ -1,6 +1,6 @@
 <?php 
 ob_start();
-define('API_KEY','6070492387:AAEJVwZ-lg0CPzING-my7uQDxBi48QHezUU'); //Enter your bot's token here
+define('API_KEY','6070492387:AAG72GExN44WnWfTe2CMlEvUdHBqpeiEyWk'); //Enter your bot's token here
 $admin = "5600479960"; //Enter admin's numerical id
 $zirmajmue = 4; //Number of refferals to become VIP
 $botusername = "@Random_CoupleBot"; //Bot's Username
